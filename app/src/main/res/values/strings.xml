@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MASAK MOMS</string>
+    <string name="detail_text">"150 g cabai rawit merah",
+            "100 g bawang merah",
+            "8 siung bawang putih",
+            "8 lembar daun jeruk, iris tipis",
+            "1 sdt Royco Kaldu Ayam",
+            "½ sdt gula pasir",
+            "200 ml minyak",
+            "100 g teri Medan",
+            "1 papan petai"</string>
+    <string name="langkah_langkah">"1 Panaskan minyak, goreng teri hingga matang. Angkat. Sisihkan.",
+"2 Haluskan cabai, bawang merah, dan bawang putih.",
+"3 Panaskan minyak sisa menggoreng teri, tumis sambal dan daun
+ jeruk hingga harum. Masukkan Royco Kaldu Ayam dan gula pasir.
+Masak hingga matang.  ",
+"4 Masukkan teri dan petai, aduk hingga petai layu. Angkat. Sajikan."</string>
+</resources>
